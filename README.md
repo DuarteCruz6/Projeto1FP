@@ -6,11 +6,11 @@
 
 - Para utilizar os testes do projeto escreve estes comandos no teu terminal:
 ⋅⋅⋅⋅⋅⋅```
-pytest -vv test_public.py
+      pytest -vv test_public.py
 ⋅⋅⋅⋅⋅⋅```
 ⋅⋅⋅⋅⋅⋅OU 
 ⋅⋅⋅⋅⋅⋅```
-pytest -vv test_public_extra.py
+      pytest -vv test_public_extra.py
 ⋅⋅⋅⋅⋅⋅```
 ⋅⋅⋅⋅⋅⋅Para mais informações, [clica aqui](https://docs.pytest.org/en/7.4.x/getting-started.html).
 
