@@ -8,11 +8,11 @@
 ```
       pytest -vv test_public.py
 ```
-⋅⋅⋅⋅⋅⋅ OU 
+   OU 
 ```
       pytest -vv test_public_extra.py
 ```
-⋅⋅⋅⋅⋅⋅ Para mais informações, [clica aqui](https://docs.pytest.org/en/7.4.x/getting-started.html).
+   Para mais informações, [clica aqui](https://docs.pytest.org/en/7.4.x/getting-started.html).
 
 ### NOTA
 Os testes aqui disponíveis não são os mesmos do stor, no entanto, se passares a todos os nossos testes, há uma grande probabilidade de teres todos os pontos sobre o código!
