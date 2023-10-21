@@ -11,7 +11,7 @@
             OU 
             ```
             pytest -vv test_public_extra.py
-            ```
+            ```.
             Para mais informações, [clica aqui](https://docs.pytest.org/en/7.4.x/getting-started.html).
 
 ### NOTA
